@@ -7,7 +7,7 @@
 
 **Для того, чтобы скрипт заработал:**
 1) Создайте проект и скопируйте в него код из файла https://github.com/kirei4ik/HappyBirthdayToPlanfixUsers/blob/main/HappyBirthdayToPlanfixUsers.gs
-2) Получите необходимые данные для работы с API Planfix и не забудьте выдать нужные разрешения для токена (task_create)
+2) Получите необходимые данные для работы с API Planfix и не забудьте выдать нужные разрешения для токена (task_add, user_readonly)
 документация https://planfix.com/ru/help/REST_API
 3) Добавьте свойства в проект:
 - AUTH_TOKEN (значение в формате: Bearer YOURTOKEN)
